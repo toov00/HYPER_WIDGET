@@ -1,5 +1,3 @@
-# HYPERLIQUID WIDGET
-
 # HYPE/USDC Spot Price Widget
 
 A simple iOS widget that displays the current HYPE/USDC spot price from Hyperliquid, built with [Scriptable](https://scriptable.app/).
